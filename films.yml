@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+
+films:
+  message: "NotSoLive Films"
+  contactDetails:
+    name: "Louis Eudo - Developer"
+    email: ""
+  onCallSupport:
+    - "https://github.com/louiseudo"
